@@ -17,6 +17,7 @@ dependencies:
   - ipykernel
   - nbconvert
   - ipympl
+  - xeus-cpp
 
   # ============================================================
   # Scientific Computing
