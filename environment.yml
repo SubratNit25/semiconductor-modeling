@@ -30,6 +30,7 @@ dependencies:
   - h5py
   - pyarrow
   - zarr
+  
 
   # ============================================================
   # Machine Learning / Numerical Acceleration
@@ -48,6 +49,7 @@ dependencies:
   - ninja
   - make
   - gdb
+  - eigen
 
   # ============================================================
   # Python <-> C/C++
