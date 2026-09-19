@@ -73,6 +73,7 @@ dependencies:
   # Optimization / Parameter Fitting
   # ============================================================
   - lmfit
+  - ceres-solver
 
   # ============================================================
   # Testing
